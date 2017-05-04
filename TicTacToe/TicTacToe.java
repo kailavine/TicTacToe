@@ -1,9 +1,6 @@
 package ticTacToe;
 
 import java.util.*;
-
-import javax.swing.JFrame;
-
 import java.io.*;
 
 public class TicTacToe {	
